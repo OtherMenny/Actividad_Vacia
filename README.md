@@ -1,0 +1,1 @@
+Esta es la primera actividad de la materia programacion para dispositivos moviles, esta es una App en blanco, su finalidad es verificar que todo se instalo y se configuro de manera correcta el repositorio en GitHub
